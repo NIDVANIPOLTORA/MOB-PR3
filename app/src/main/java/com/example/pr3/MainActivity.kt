@@ -47,3 +47,7 @@ fun GreetingPreview() {
 }
 
 // testing
+
+fun newMethod() {
+
+}
